@@ -1,0 +1,46 @@
+Placa: M101
+Tipo: digital
+Año: 2014 [ 7 Años]
+Propietario: Steven chilan
+Planillas: 3 [ Total $300 ] 
+Placa: M102
+Tipo: digital
+Año: 2014 [ 7 Años]
+Propietario: Steven Chilan
+Planillas: 3 [ Total $300 ] 
+Placa: M103
+Tipo: digital
+Año: 2014 [ 7 Años]
+Propietario: Steven Chilan
+Planillas: 3 [ Total $300 ] 
+
+Placa: M104
+Tipo: digital
+Año: 2014 [ 7 Años]
+Propietario: Steven Chilan
+Planillas: 3 [ Total $300 ] 
+Placa: M401
+Tipo: analogico
+Año: 2001 [ 20 Años]
+Propietario: Eduardo Campos
+Planillas: 4 [ Total $400 ] 
+Placa: M4A1
+Tipo: analogico
+Año: 2001 [ 20 Años]
+Propietario: Eduardo Campos
+Planillas: 4 [ Total $400 ] 
+Placa: M401
+Tipo: analogico
+Año: 2001 [ 20 Años]
+Propietario: Eduardo Campos
+Planillas: 4 [ Total $400 ] 
+Placa: M4A1
+Tipo: analogico
+Año: 2001 [ 20 Años]
+Propietario: Eduardo Campos
+Planillas: 4 [ Total $400 ] 
+Placa: M4A1
+Tipo: analogico
+Año: 2001 [ 20 Años]
+Propietario: Eduardo Campos
+Planillas: 4 [ Total $400 ] 
