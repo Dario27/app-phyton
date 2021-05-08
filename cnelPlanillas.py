@@ -10,7 +10,7 @@ class CNEL:
 
         def validarPlaca(placa):
             
-            with open("app-phyton/Data/datos.txt", "r") as fileOpen:
+            with open("Data/datos.txt", "r") as fileOpen:
                 line = fileOpen.readlines()
 
             ok = True
@@ -30,7 +30,7 @@ class CNEL:
 
             valor = int(numPlanillas) * 100 #calculo del valor de planillas
 
-            file = open("app-phyton/Data/datos.txt", "a")
+            file = open("Data/datos.txt", "a")
             file.write("Placa: " + placa+ "\n" )
             file.write("Tipo: " + tipo+ "\n" )
             file.write("Año: " + str(anio) + " [ "+ str(difAnio) +" Años]"+"\n" )
@@ -78,7 +78,7 @@ class CNEL:
         def reportes():
             print("*** Generando Reporte....*** \n")
             try:
-                with open("app-phyton/Data/datos.txt", "r") as fileOpen:
+                with open("Data/datos.txt", "r") as fileOpen:
                     line = fileOpen.readlines()
 
                 x = 0
@@ -107,8 +107,8 @@ class CNEL:
             if len(codigoP) >=1 and len(codigoP) <=4:
                 placa = re.search("^[A-Z]", codigoP)
                 placaNum = re.split("^[A-Z]", codigoP)
-                OkPlaca = re.search("{0-9}", placaNum[1])                
-                if placa and OkPlaca:
+                OkPlaca = True               
+                if placa and OkPlaca: 
                     print("valido placa ok" + placaNum[1])
                     placaOK = True
                 else:

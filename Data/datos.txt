@@ -44,3 +44,8 @@ Tipo: analogico
 Año: 2001 [ 20 Años]
 Propietario: Eduardo Campos
 Planillas: 4 [ Total $400 ] 
+Placa: S102
+Tipo: digital
+Año: 2015 [ 6 Años]
+Propietario: Carlos Calderon
+Planillas: 5 [ Total $500 ] 
